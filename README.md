@@ -1,7 +1,5 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends/.
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends/.
 
 ## **Kickstarter Project Overview**
 
