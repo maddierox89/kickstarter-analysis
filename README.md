@@ -12,15 +12,14 @@ We were tasked with working through the data to determine a more specific sample
 
 ## **Findings of Outcomes Based on Launch Date**
 
-	The findings suggested that productions are mor successful during specific seasons, particularly summertime, which could directly correlate with families having time to go out for extracurricular activties when their children are not in school, etc. Other factors could include weather conditions and holidays. 
+The findings suggested that productions are mor successful during specific seasons, particularly summertime, which could directly correlate with families having time to go out for extracurricular activties when their children are not in school, etc. Other factors could include weather conditions and holidays. 
 
 #### Pivot Chart Data
-![Theater Outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 
 ## **Findings of Outcomes Based on Goal**
 	
-	The findings of how outcomes are affected by the Goal of the Kickstarter highly depended on how much the goal was for the individual production. With that, I believe that the location of the production is key as well. While a $45,000 goal could fail in a small Wisconsin town, it could easily double or triple itself in New York City. The data seems to be scattered in relation to success or fail rate (since none were canceled)... most productions up to $4,999 had a minimum 73% success rate, while the $25,000-$29,999 range had an 80% fail rate, and above that, sitting at $35,000-$44,999 only had a 33% fail rate between them. However, it is pretty fair to say that any plays with goals in excess of $45,000 have a fail rate of 83%-100%.
+The findings of how outcomes are affected by the Goal of the Kickstarter highly depended on how much the goal was for the individual production. With that, I believe that the location of the production is key as well. While a $45,000 goal could fail in a small Wisconsin town, it could easily double or triple itself in New York City. The data seems to be scattered in relation to success or fail rate (since none were canceled)... most productions up to $4,999 had a minimum 73% success rate, while the $25,000-$29,999 range had an 80% fail rate, and above that, sitting at $35,000-$44,999 only had a 33% fail rate between them. However, it is pretty fair to say that any plays with goals in excess of $45,000 have a fail rate of 83%-100%.
 
 #### Pivot Chart Data
 ![Outcomes vs Goal](resources/Outcomes_vs_Goals.png)
